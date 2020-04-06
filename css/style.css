@@ -603,6 +603,9 @@ a {
     border: none;
     width: 350px;
     padding: 10px; 
+    color: white;
+    font-size: 15px;
+    line-height: 25px;
   }
  
  .contact__input::placeholder,
